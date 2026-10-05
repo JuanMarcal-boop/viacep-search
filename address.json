@@ -1,0 +1,14 @@
+[
+  {
+    "logradouro": "Rua Itu",
+    "bairro": "Barro Vermelho",
+    "localidade": "Belford Roxo",
+    "uf": "RJ"
+  },
+  {
+    "logradouro": "Praça da Sé",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP"
+  }
+]
